@@ -1,0 +1,12 @@
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+img {
+  height: 550px;
+  width: 310px;
+  padding: 20px;
+  object-fit: cover;
+}
